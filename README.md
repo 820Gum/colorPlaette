@@ -1,2 +1,2 @@
 # colorPlaette
-showing C# System Drawing Color through html
+Render C# System.Drawing.Color in HTML
